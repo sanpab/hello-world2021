@@ -1,2 +1,2 @@
 # hello-world2021
-Just another repository
+Trying to learn how to use github in Jan 2021 during covid lockdown
